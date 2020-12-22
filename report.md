@@ -1,4 +1,4 @@
-# Report: Deep Reinforcement Learning Nanodegree Project 2 Continous Control
+# Report: Deep Reinforcement Learning Nanodegree Project 2 Continuous Control
 ### DDPG
 
 In the implementation, the DDPG is utilized.
