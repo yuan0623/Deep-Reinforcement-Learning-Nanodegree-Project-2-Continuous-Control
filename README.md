@@ -31,7 +31,7 @@ The environment can be considered as solved when all agents has an average score
 2. Install OpenAI gym, the instruction can be find [here](https://github.com/openai/gym)
 3. Install **classic control** environment group by following the instructions [here](https://github.com/openai/gym#classic-control)
 4. Install the **box2d** environment by following the instructions [here](https://github.com/openai/gym#box2d).
-
+5. Install the **pytorch** package by following the instruction [here](https://pytorch.org/get-started/locally/) .
 
 As this submission is done using the workspace provided by the Udacity, the Unity environment is not included. If you wish to interact with the Unity environment, feel free to download the compiled Unity environment here.
 - Linux: [Click Here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Linux.zip)
