@@ -45,4 +45,4 @@ follow the instruction of `Continuous_Control.ipynb`, simply run the code cell w
 
 
 ### Results
-In the end, the agents have more than 32 points on average over 132 consecutive episodes. It takes 2198 to solve for this environment.
+In the end, the agents have more than 32 points on average over 132 consecutive episodes. It takes 2198 seconds to solve for this environment.
